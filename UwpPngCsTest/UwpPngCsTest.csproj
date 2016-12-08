@@ -127,7 +127,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PngCs\UwpPngCs.csproj">
+    <ProjectReference Include="..\UwpPngCs\UwpPngCs.csproj">
       <Project>{2a3cb429-8e85-4d12-801a-c1f6a2bbd87b}</Project>
       <Name>UwpPngCs</Name>
     </ProjectReference>

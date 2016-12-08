@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpPngCs", "PngCs\UwpPngCs.csproj", "{2A3CB429-8E85-4D12-801A-C1F6A2BBD87B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpPngCs", "UwpPngCs\UwpPngCs.csproj", "{2A3CB429-8E85-4D12-801A-C1F6A2BBD87B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpPngCsTest", "TestPngCs\UwpPngCsTest.csproj", "{F9A3219B-1B8C-4C05-B3A9-1CE93B25566B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpPngCsTest", "UwpPngCsTest\UwpPngCsTest.csproj", "{F9A3219B-1B8C-4C05-B3A9-1CE93B25566B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -127,9 +127,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PngCs\PngCs.csproj">
+    <ProjectReference Include="..\PngCs\UwpPngCs.csproj">
       <Project>{2a3cb429-8e85-4d12-801a-c1f6a2bbd87b}</Project>
-      <Name>PngCs</Name>
+      <Name>UwpPngCs</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
